@@ -1,0 +1,45 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+backend/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Flutter / Dart
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/build/
+frontend/ephemeral/
+.pub-cache/
+.pub/
+coverage/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Large ecological datasets
+backend/ml/data/raw/
+
+# Intermediate processed datasets
+backend/ml/data/processed/*
+!backend/ml/data/processed/india_teak_habitat_suitability_v1.csv
+
+# Backup files
+*.bak

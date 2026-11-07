@@ -1,0 +1,193 @@
+[
+  {
+    "action_id": "wg_act_01",
+    "name": "Canopy Rope Bridges & Native Corridor Reforestation",
+    "description": "Install arboreal rope bridges across linear roads and plant native Cullenia exarillata, Mesua ferrea, and Ficus saplings to bridge fragmented forest parcels.",
+    "applicable_ecosystem_types": [
+      "Tropical Montane Evergreen Forest",
+      "Tropical Rainforest"
+    ],
+    "target_problems": [
+      "habitat_fragmentation",
+      "primate_isolation",
+      "canopy_discontinuity"
+    ],
+    "problem_addressed": "Severe arboreal fragmentation isolating Lion-tailed macaques and canopy frugivores.",
+    "urgency_level": "High",
+    "cost_estimate_usd": 1200.0,
+    "cost_unit": "USD/ha",
+    "total_estimated_budget_usd": 180000.0,
+    "feasibility_notes": "Highly viable in collaboration with local tea estates and highway authorities; rapid adoption by arboreal species demonstrated in Western Ghats trials.",
+    "beneficiary_species": [
+      "Macaca silenus",
+      "Buceros bicornis",
+      "Cullenia exarillata"
+    ],
+    "impact_assumptions": {
+      "habitat_connectivity": 24.5,
+      "plant_diversity": 11.0,
+      "keystone_stability": 18.0,
+      "bird_network": 8.5
+    },
+    "source": "Western Ghats Ecological Restoration Framework (Demo)",
+    "data_mode": "DEMO_ILLUSTRATIVE"
+  },
+  {
+    "action_id": "wg_act_02",
+    "name": "High-Canopy Pollinator Sanctuary & Pesticide Buffer",
+    "description": "Establish pesticide-free buffer strips along plantation edges and propagate native flowering epiphytes and bee forage plants.",
+    "applicable_ecosystem_types": [
+      "Tropical Montane Evergreen Forest",
+      "Tropical Moist Deciduous Forest"
+    ],
+    "target_problems": [
+      "pollinator_decline",
+      "agrochem_drift",
+      "flower_deficit"
+    ],
+    "problem_addressed": "Sharp decline in Apis dorsata bee colonies and Troides minos butterfly populations due to edge pesticide exposure.",
+    "urgency_level": "High",
+    "cost_estimate_usd": 650.0,
+    "cost_unit": "USD/ha",
+    "total_estimated_budget_usd": 97500.0,
+    "feasibility_notes": "Requires community organic stewardship agreements with adjacent estate managers and local tribal beekeepers.",
+    "beneficiary_species": [
+      "Apis dorsata",
+      "Troides minos",
+      "Cullenia exarillata"
+    ],
+    "impact_assumptions": {
+      "pollinator_network": 26.0,
+      "plant_diversity": 9.5,
+      "bird_network": 5.0
+    },
+    "source": "Western Ghats Pollinator Revival Plan (Demo)",
+    "data_mode": "DEMO_ILLUSTRATIVE"
+  },
+  {
+    "action_id": "wg_act_03",
+    "name": "Keystone Fig Propagation & Frugivore Nesting Cavity Protection",
+    "description": "Protect mature veteran trees with nesting hollows and plant Ficus microcarpa cuttings to guarantee dry-season fruit availability.",
+    "applicable_ecosystem_types": [
+      "Tropical Montane Evergreen Forest"
+    ],
+    "target_problems": [
+      "frugivore_scarcity",
+      "nesting_tree_loss",
+      "dry_season_food_bottleneck"
+    ],
+    "problem_addressed": "Scarcity of large nesting hollows for Great Hornbills and winter lean-season fruit shortages.",
+    "urgency_level": "Medium",
+    "cost_estimate_usd": 520.0,
+    "cost_unit": "USD/ha",
+    "total_estimated_budget_usd": 78000.0,
+    "feasibility_notes": "Low cost with high ecological leverage; community nest-guarding programs have proven track records in Anamalai hills.",
+    "beneficiary_species": [
+      "Buceros bicornis",
+      "Ficus microcarpa",
+      "Macaca silenus"
+    ],
+    "impact_assumptions": {
+      "bird_network": 18.0,
+      "keystone_stability": 12.0,
+      "plant_diversity": 6.5
+    },
+    "source": "Hornbill Nest Adoption Initiative (Demo)",
+    "data_mode": "DEMO_ILLUSTRATIVE"
+  },
+  {
+    "action_id": "sb_act_01",
+    "name": "Freshwater Flow Restoration & Sundari Tree Re-establishment",
+    "description": "De-silt inland distributary creeks to augment freshwater inflows and reintroduce salt-stressed Heritiera fomes (Sundari) seedlings.",
+    "applicable_ecosystem_types": [
+      "Coastal Mangrove & Estuarine Wetland"
+    ],
+    "target_problems": [
+      "salinity_intrusion",
+      "sundari_dieback",
+      "tidal_siltation"
+    ],
+    "problem_addressed": "Catastrophic top-dying disease and loss of structural Sundari mangrove forests due to hyper-salinization.",
+    "urgency_level": "High",
+    "cost_estimate_usd": 1500.0,
+    "cost_unit": "USD/ha",
+    "total_estimated_budget_usd": 225000.0,
+    "feasibility_notes": "Requires hydrological desilting interventions and regional water-sharing consensus across upper delta barrages.",
+    "beneficiary_species": [
+      "Heritiera fomes",
+      "Apis dorsata",
+      "Platanista gangetica"
+    ],
+    "impact_assumptions": {
+      "plant_diversity": 25.0,
+      "habitat_connectivity": 14.0,
+      "pollinator_network": 18.0
+    },
+    "source": "Sundarbans Eco-Hydrology Protocol (Demo)",
+    "data_mode": "DEMO_ILLUSTRATIVE"
+  },
+  {
+    "action_id": "sb_act_02",
+    "name": "Rhizophora Stilt-Root Nursery & Coastal Bio-Shield Expansion",
+    "description": "Propagate dense Rhizophora mucronata and Avicennia marina bio-shields along vulnerable intertidal embankments.",
+    "applicable_ecosystem_types": [
+      "Coastal Mangrove & Estuarine Wetland"
+    ],
+    "target_problems": [
+      "storm_surge_vulnerability",
+      "nursery_habitat_loss",
+      "embankment_erosion"
+    ],
+    "problem_addressed": "Destruction of intertidal prop-root nurseries essential for juvenile tiger prawns, mud crabs, and storm surge absorption.",
+    "urgency_level": "High",
+    "cost_estimate_usd": 980.0,
+    "cost_unit": "USD/ha",
+    "total_estimated_budget_usd": 147000.0,
+    "feasibility_notes": "High local community participation through mangrove community nurseries; proven resilience against category 4 cyclones.",
+    "beneficiary_species": [
+      "Rhizophora mucronata",
+      "Penaeus monodon",
+      "Scylla serrata",
+      "Panthera tigris tigris"
+    ],
+    "impact_assumptions": {
+      "benthic_aquatic_health": 21.0,
+      "habitat_connectivity": 16.5,
+      "plant_diversity": 12.0
+    },
+    "source": "Mangrove Nursery Assessment (Demo)",
+    "data_mode": "DEMO_ILLUSTRATIVE"
+  },
+  {
+    "action_id": "sb_act_03",
+    "name": "Sustainable Benthic Crab & Prawn Bycatch Mitigation Zones",
+    "description": "Establish seasonal fishing holidays in core tidal channels and replace fine-mesh larval nets with eco-certified escape gap traps.",
+    "applicable_ecosystem_types": [
+      "Coastal Mangrove & Estuarine Wetland"
+    ],
+    "target_problems": [
+      "larval_bycatch_overfishing",
+      "benthic_depletion",
+      "aquatic_predator_starvation"
+    ],
+    "problem_addressed": "Destructive wild tiger prawn seed collection depleting non-target benthic larvae and starving higher trophic predators.",
+    "urgency_level": "Medium",
+    "cost_estimate_usd": 450.0,
+    "cost_unit": "USD/ha",
+    "total_estimated_budget_usd": 67500.0,
+    "feasibility_notes": "Requires compensatory micro-grants for coastal fishers during breeding moratoria.",
+    "beneficiary_species": [
+      "Penaeus monodon",
+      "Scylla serrata",
+      "Alcedo atthis",
+      "Haliaeetus leucogaster"
+    ],
+    "impact_assumptions": {
+      "benthic_aquatic_health": 22.0,
+      "bird_network": 14.0,
+      "keystone_stability": 8.0
+    },
+    "source": "Estuarine Fishery Sustainability Plan (Demo)",
+    "data_mode": "DEMO_ILLUSTRATIVE"
+  }
+]

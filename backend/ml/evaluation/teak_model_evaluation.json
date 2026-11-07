@@ -1,0 +1,17 @@
+{
+    "model": "RandomForestClassifier",
+    "sklearn_version": "1.9.1",
+    "random_state": 42,
+    "spatial_block_size": "50km x 50km",
+    "spatial_folds": 5,
+    "background_ratio": 3,
+    "presence_cells": 509,
+    "sampled_background_cells": 1527,
+    "predictor_count": 39,
+    "mean_roc_auc": 0.851388174420998,
+    "std_roc_auc": 0.03747457372024512,
+    "mean_average_precision": 0.7125931188591325,
+    "std_average_precision": 0.04385271759648194,
+    "mean_balanced_accuracy_at_0_5": 0.7456224526599204,
+    "interpretation": "Relative presence-background discrimination; not calibrated wild occurrence probability."
+}

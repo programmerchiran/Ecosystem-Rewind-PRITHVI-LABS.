@@ -1,0 +1,70 @@
+[
+  {
+    "area_id": "western_ghats_forest",
+    "name": "Western Ghats Evergreen Corridor",
+    "ecosystem_type": "Tropical Montane Evergreen Forest",
+    "center_latitude": 10.1500,
+    "center_longitude": 77.0500,
+    "area_size": 42500.0,
+    "area_size_unit": "hectares",
+    "dataset_version": "1.0.0",
+    "data_mode": "DEMO_ILLUSTRATIVE",
+    "supported_features": [
+      "health_dashboard",
+      "ecosystem_network",
+      "domino_simulator",
+      "restoration_recommendations",
+      "time_machine"
+    ],
+    "description": "A biodiversity hotspot corridor linking fragmented montane rainforest patches. Home to endemic primates, ancient Dipterocarp canopies, and vital elephant migratory paths currently disrupted by linear infrastructure.",
+    "climate_zone": "Tropical Montane Wet (Monsoonal)",
+    "vulnerability_notes": "High fragmentation index, edge effects from estate cultivation, and canopy pollinator decline.",
+    "boundary_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [76.9500, 10.0500],
+          [77.1500, 10.0500],
+          [77.2000, 10.2000],
+          [77.1000, 10.2500],
+          [76.9200, 10.1800],
+          [76.9500, 10.0500]
+        ]
+      ]
+    }
+  },
+  {
+    "area_id": "sundarbans_wetland",
+    "name": "Sundarbans Mangrove Tidal Wetland",
+    "ecosystem_type": "Coastal Mangrove & Estuarine Wetland",
+    "center_latitude": 21.9500,
+    "center_longitude": 88.8500,
+    "area_size": 65000.0,
+    "area_size_unit": "hectares",
+    "dataset_version": "1.0.0",
+    "data_mode": "DEMO_ILLUSTRATIVE",
+    "supported_features": [
+      "health_dashboard",
+      "ecosystem_network",
+      "domino_simulator",
+      "restoration_recommendations",
+      "time_machine"
+    ],
+    "description": "The world's largest contiguous halophytic mangrove forest and estuarine complex. Provides essential coastal storm buffering and nursery grounds for tidal fish and apex marine/terrestrial predators.",
+    "climate_zone": "Tropical Estuarine Coastal",
+    "vulnerability_notes": "Accelerating salinity intrusion due to diminished upstream river discharge, cyclone-induced levee erosion, and intensive benthic crustacean dredging.",
+    "boundary_geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [88.7000, 21.8000],
+          [89.0500, 21.8200],
+          [89.1200, 22.0500],
+          [88.9000, 22.1200],
+          [88.6500, 21.9800],
+          [88.7000, 21.8000]
+        ]
+      ]
+    }
+  }
+]
